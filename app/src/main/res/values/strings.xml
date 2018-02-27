@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BelajarGit</string>
+    <string name="title_activity_main4">Main4Activity</string>
+    <string name="hellogit">Hello World GitHub</string>
 </resources>
